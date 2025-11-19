@@ -35,7 +35,3 @@ See each repository’s `CONTRIBUTING.md` for details.
 
 ## License  
 Repositories published by SoloVector are typically licensed under the MIT License unless otherwise noted.  
-
----
-
-*This profile README is intended for the public view of the organization’s GitHub profile as described in GitHub’s “Customizing your organization’s profile” documentation.* :contentReference[oaicite:0]{index=0}  
